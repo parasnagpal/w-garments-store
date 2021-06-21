@@ -5,3 +5,8 @@
 .border-0{
     border: none;
 }
+
+.header{
+    background-color:gray;
+    color: white;
+}
